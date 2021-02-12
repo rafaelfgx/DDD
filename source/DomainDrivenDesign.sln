@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainDrivenDesign", "DomainDrivenDesign\DomainDrivenDesign.csproj", "{53DF7FB6-0002-4CD7-8819-FA2999065763}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainDrivenDesign.Tests", "DomainDrivenDesign.Tests\DomainDrivenDesign.Tests.csproj", "{8FD05F4A-EB5C-48BA-86B5-4BFA67BC0E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53DF7FB6-0002-4CD7-8819-FA2999065763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DF7FB6-0002-4CD7-8819-FA2999065763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DF7FB6-0002-4CD7-8819-FA2999065763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DF7FB6-0002-4CD7-8819-FA2999065763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD05F4A-EB5C-48BA-86B5-4BFA67BC0E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD05F4A-EB5C-48BA-86B5-4BFA67BC0E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD05F4A-EB5C-48BA-86B5-4BFA67BC0E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD05F4A-EB5C-48BA-86B5-4BFA67BC0E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB5E2828-8A71-4500-AB1F-8B4CD29024F1}
+	EndGlobalSection
+EndGlobal
